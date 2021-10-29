@@ -60,7 +60,7 @@ docker pull jderobot/robotics-academy:latest
 
 ### How to perform the exercise?
 - Start a new docker container of the image and keep it running in the background. It is necessary to map the port where the camera is located to the docker container.  
-- For ubuntu: The port to map will be in /dev/videoX , you should check the number where your camera is connected. For exaple /dev/video0
+- For ubuntu: The port to map will be in /dev/videoX , you should check the number where your camera is connected. For example /dev/video0
 
 ```bash
 docker run --rm -it -p 8000:8000 -p 2303:2303 -p 1905:1905 -p 8765:8765 -p 6080:6080 -p 1108:1108 --device /dev/video0:/dev/video0 jderobot/robotics-academy:latest ./start.sh 
@@ -96,9 +96,9 @@ while True:
 
 * **RTF (Real Time Factor)**: The RTF defines how much real time passes with each step of simulation time. A RTF of 1 implies that simulation time is passing at the same speed as real time. The lower the value the slower the simulation will run, which will vary depending on the computer. 
 
-* **Psuedo Console**: This shows the error messages related to the student's code that is sent. In order to print certain debugging information on this console. The student is provided with `console.print()` similar to `print()` command in the Python Interpreter. 
+* **Pseudo Console**: This shows the error messages related to the student's code that is sent. In order to print certain debugging information on this console. The student is provided with `console.print()` similar to `print()` command in the Python Interpreter. 
 
-**Application Programming Interface**
+## Robot API
 
 * `from HAL import HAL` - to import the HAL library class. This class contains the functions that receives information from the webcam.
 * `from GUI import GUI` - to import the GUI (Graphical User Interface) library class. This class contains the functions used to view the debugging information, like image widgets.
