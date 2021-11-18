@@ -70,7 +70,7 @@ The goal of this practice is to implement the logic of a navigation algorithm fo
 
 {% include gallery caption="Gallery" %}
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

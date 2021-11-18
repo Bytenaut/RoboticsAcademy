@@ -64,7 +64,7 @@ The goal of this exercise is to learn the underlying infrastructure of Industria
 
 {% include gallery caption="Gallery." %}
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

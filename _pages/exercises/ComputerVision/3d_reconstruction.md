@@ -65,7 +65,7 @@ In this practice, the intention is to program the necessary logic to allow kobuk
 
 {% include gallery caption="Scene to reconstruct" %}
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

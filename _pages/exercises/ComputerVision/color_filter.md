@@ -40,7 +40,7 @@ In this practice the intention is to develop a color filter that allow us to seg
 {% include gallery caption="Tracking example" %}
 
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

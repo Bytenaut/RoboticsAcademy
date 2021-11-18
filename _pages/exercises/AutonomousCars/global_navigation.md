@@ -127,7 +127,7 @@ The solution can integrate one or more of the following levels of difficulty, as
 
 * Arrive as quickly as possible to the destination.
 
-## Instructions for Web Template
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

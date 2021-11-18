@@ -33,7 +33,7 @@ The objective of this practice is to implement the logic of a navigation algorit
 
 {% include gallery caption="Laser Mapping." %}
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

@@ -48,7 +48,9 @@ The objective of this practice is to implement the autonomous robot navigation a
 
 The students program an Amazon robot to navigate to the seleceted pallet, pick it, and deliver to the required zone. After completion of the task, go the charging area, and wait for the next tasks.
 
-## Installation
+## Instructions
+
+### Installation
 Install the [General Infrastructure](https://jderobot.github.io/RoboticsAcademy/installation/#generic-infrastructure) of the JdeRobot Robotics Academy.
 
 Add following packages if you don't have them already:

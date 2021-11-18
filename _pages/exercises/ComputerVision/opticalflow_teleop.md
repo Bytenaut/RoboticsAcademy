@@ -45,7 +45,7 @@ In this practice the intention is to develop an optical flow algorithm to teleop
 {% include gallery caption="Gallery" %}
 
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

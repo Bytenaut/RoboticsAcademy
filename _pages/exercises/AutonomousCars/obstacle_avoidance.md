@@ -71,7 +71,7 @@ The solution can integrate one or more of the following levels of difficulty, as
 
 * Robustness in situations of indecision (zero vector sum)
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way to run the exercise.
 
 ### Installation

@@ -69,7 +69,7 @@ The goal of this exercise is to perform a PID reactive control capable of follow
 
 The students will program a Formula1 car in a race circuit to follow the red line in the middle of the road.
 
-## Instructions for Web Templates
+## Instructions
 This is the preferred way for running the exercise.
 
 ### Installation 

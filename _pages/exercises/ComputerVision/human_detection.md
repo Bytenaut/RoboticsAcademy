@@ -36,7 +36,7 @@ The user is expected to upload a Deep Learning model which fits the required inp
 - There are two ways to run the exercise using web-template:
 
   - Run the exercise with docker container
-   - Run it without container
+  - Run it without container
 
 ### Run with docker container
 
